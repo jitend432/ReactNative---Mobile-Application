@@ -80,4 +80,4 @@ To learn more about React Native, take a look at the following resources:
 
    <h2>Preview:</h2>
 
-![](images/image1.jpg)
+![](images/1.jpg)
