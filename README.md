@@ -80,11 +80,11 @@ To learn more about React Native, take a look at the following resources:
 
    <h2>Preview:</h2>
 
-
+<div style="display: flex; gap: 10px;">
 <img src="images/1.jpg" alt="Alt text" width="20%">
 <img src="images/2.jpg" alt="Alt text" width="20%">
 <img src="images/3.jpg" alt="Alt text" width="20%">
 <img src="images/4.jpg" alt="Alt text" width="20%">
 <img src="images/5.jpg" alt="Alt text" width="20%">
 <img src="images/6.jpg" alt="Alt text" width="20%">
-
+</div>
