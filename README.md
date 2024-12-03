@@ -81,4 +81,4 @@ To learn more about React Native, take a look at the following resources:
    <h2>Preview:</h2>
 
 
-<img src="images/1.jpg" alt="Alt text" width="50%">
+<img src="images/1.jpg" alt="Alt text" width="30%">
