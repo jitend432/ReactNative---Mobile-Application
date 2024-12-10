@@ -87,4 +87,5 @@ To learn more about React Native, take a look at the following resources:
 <img src="images/4.jpg" alt="Alt text" width="20%">
 <img src="images/5.jpg" alt="Alt text" width="20%">
 <img src="images/6.jpg" alt="Alt text" width="20%">
+
 </div>
